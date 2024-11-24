@@ -1,10 +1,7 @@
-# Информация об автоматизации в проекте
+# Information about automation setup in the project
 
-## Технологии
-...
+## Library
+ - [Playwright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps.
 
-## Репозитории
-...
-
-## Дополнительаня информация
-...
+## Additional technology
+- CI/CD: [Jenkins](https://www.jenkins.io/)
